@@ -1,3 +1,6 @@
+#src/pages/employer/
+#src/pages/user/
+
 # Environment Variables
 .env
 .env.*
